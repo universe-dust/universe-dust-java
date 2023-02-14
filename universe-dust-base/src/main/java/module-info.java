@@ -1,0 +1,2 @@
+module universe.dust.base {
+}
